@@ -1,0 +1,17 @@
+#all{
+    width: 430px;
+    height: auto;
+    border: 2px solid rgb(184, 184, 189);
+}
+div{
+    text-align: center;
+    border: 2px solid rgb(184, 184, 189);
+}
+#small{
+    display: inline;
+    border: 2px solid rgb(184, 184, 189);
+}
+h1{
+    text-align: center;
+    border: 2px solid rgb(184, 184, 189);
+}

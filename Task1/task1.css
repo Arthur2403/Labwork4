@@ -1,0 +1,14 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url('./image/realistic-galaxy-background_52683-12122.avif');
+    background-size: 100%;
+    background-attachment: fixed;
+}
+div{
+    margin: 0 auto;
+    padding: 15px;
+    width: 300px;
+    height: auto;
+    background-color: rgba(20, 96, 87, 0.854);
+}
